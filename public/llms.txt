@@ -1,51 +1,60 @@
-# Business — Generative Engine Optimization Map
+# החנות הכיפית — Generative Engine Optimization Map
+
+> A מסחר אלקטרוני - מוצרים דיגיטליים business.
 
 ---
 
 ## Pages
 
 ### בית
-https://the-kippah-shop.zappy5.app
+https://zappy-site-7d289f88-cf5c-4d9a-bca9.onrender.com
 גלו חבילות סטיקרים דיגיטליים מצחיקות לווצאפ עם מועדון לקוחות והטבות בלעדיות. הצטרפו עכשיו!
 
 ### חבילות סטיקרים
-https://the-kippah-shop.zappy5.app/packages
+https://zappy-site-7d289f88-cf5c-4d9a-bca9.onrender.com/packages
 חבילות סטיקרים דיגיטליים מצחיקות לווצאפ - רגשות, חיות, ביטויים ועוד. איפה לקנות סטיקרים? כאן!
 
 ### מועדון לקוחות
-https://the-kippah-shop.zappy5.app/club
+https://zappy-site-7d289f88-cf5c-4d9a-bca9.onrender.com/club
 הצטרפו למועדון לקוחות VIP וקבלו 20% הנחה על חבילות סטיקרים לווצאפ, מתנות חודשיות ועוד הטבות!
 
 ### אודות
-https://the-kippah-shop.zappy5.app/about
+https://zappy-site-7d289f88-cf5c-4d9a-bca9.onrender.com/about
 גלו את הסיפור מאחורי החנות הכיפית - היעד המוביל לחבילות סטיקרים מצחיקים לווצאפ בישראל
 
 ### צור קשר
-https://the-kippah-shop.zappy5.app/contact
+https://zappy-site-7d289f88-cf5c-4d9a-bca9.onrender.com/contact
 יש שאלה על חבילות סטיקרים לווצאפ? צרו איתנו קשר ונשמח לעזור בכל נושא!
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://the-kippah-shop.zappy5.app/privacy
+https://zappy-site-7d289f88-cf5c-4d9a-bca9.onrender.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://the-kippah-shop.zappy5.app/terms
+https://zappy-site-7d289f88-cf5c-4d9a-bca9.onrender.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://the-kippah-shop.zappy5.app/accessibility
+https://zappy-site-7d289f88-cf5c-4d9a-bca9.onrender.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About Business
+## About החנות הכיפית
+החנות הכיפית is a business in the מסחר אלקטרוני - מוצרים דיגיטליים industry.
+
+## Target Audience
+
+## Industry
+מסחר אלקטרוני - מוצרים דיגיטליים
+
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://the-kippah-shop.zappy5.app/sitemap.xml
-- **Robots.txt**: https://the-kippah-shop.zappy5.app/robots.txt
+- **Sitemap**: https://zappy-site-7d289f88-cf5c-4d9a-bca9.onrender.com/sitemap.xml
+- **Robots.txt**: https://zappy-site-7d289f88-cf5c-4d9a-bca9.onrender.com/robots.txt
