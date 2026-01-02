@@ -1,6 +1,4 @@
-# החנות הכיפית — Generative Engine Optimization Map
-
-> A מסחר אלקטרוני - מוצרים דיגיטליים business.
+# Business — Generative Engine Optimization Map
 
 ---
 
@@ -44,14 +42,7 @@ Information about WCAG compliance and accessibility features.
 
 # Business Context (for LLM understanding)
 
-## About החנות הכיפית
-החנות הכיפית is a business in the מסחר אלקטרוני - מוצרים דיגיטליים industry.
-
-## Target Audience
-
-## Industry
-מסחר אלקטרוני - מוצרים דיגיטליים
-
+## About Business
 ---
 
 # Additional Resources
