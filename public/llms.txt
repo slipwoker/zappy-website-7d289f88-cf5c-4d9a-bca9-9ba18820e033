@@ -1,0 +1,60 @@
+# החנות הכיפית — Generative Engine Optimization Map
+
+> A מסחר אלקטרוני - מוצרים דיגיטליים business.
+
+---
+
+## Pages
+
+### בית
+https://-7d289f88.zappy5.app
+גלו חבילות סטיקרים דיגיטליים מצחיקות לווצאפ עם מועדון לקוחות והטבות בלעדיות. הצטרפו עכשיו!
+
+### חבילות סטיקרים
+https://-7d289f88.zappy5.app/packages
+חבילות סטיקרים דיגיטליים מצחיקות לווצאפ - רגשות, חיות, ביטויים ועוד. איפה לקנות סטיקרים? כאן!
+
+### מועדון לקוחות
+https://-7d289f88.zappy5.app/club
+הצטרפו למועדון לקוחות VIP וקבלו 20% הנחה על חבילות סטיקרים לווצאפ, מתנות חודשיות ועוד הטבות!
+
+### אודות
+https://-7d289f88.zappy5.app/about
+גלו את הסיפור מאחורי החנות הכיפית - היעד המוביל לחבילות סטיקרים מצחיקים לווצאפ בישראל
+
+### צור קשר
+https://-7d289f88.zappy5.app/contact
+יש שאלה על חבילות סטיקרים לווצאפ? צרו איתנו קשר ונשמח לעזור בכל נושא!
+
+## Legal & Policy
+
+### Privacy Policy
+https://-7d289f88.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-7d289f88.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-7d289f88.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About החנות הכיפית
+החנות הכיפית is a business in the מסחר אלקטרוני - מוצרים דיגיטליים industry.
+
+## Target Audience
+
+## Industry
+מסחר אלקטרוני - מוצרים דיגיטליים
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://-7d289f88.zappy5.app/sitemap.xml
+- **Robots.txt**: https://-7d289f88.zappy5.app/robots.txt
