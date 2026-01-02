@@ -1,51 +1,60 @@
-# Business — Generative Engine Optimization Map
+# החנות הכיפית — Generative Engine Optimization Map
+
+> A מסחר אלקטרוני - מוצרים דיגיטליים business.
 
 ---
 
 ## Pages
 
 ### בית
-https://example.com
+https://the-kippah-shop.zappy5.app
 גלו חבילות סטיקרים דיגיטליים מצחיקות לווצאפ עם מועדון לקוחות והטבות בלעדיות. הצטרפו עכשיו!
 
 ### חבילות סטיקרים
-https://example.com/packages
+https://the-kippah-shop.zappy5.app/packages
 חבילות סטיקרים דיגיטליים מצחיקות לווצאפ - רגשות, חיות, ביטויים ועוד. איפה לקנות סטיקרים? כאן!
 
 ### מועדון לקוחות
-https://example.com/club
+https://the-kippah-shop.zappy5.app/club
 הצטרפו למועדון לקוחות VIP וקבלו 20% הנחה על חבילות סטיקרים לווצאפ, מתנות חודשיות ועוד הטבות!
 
 ### אודות
-https://example.com/about
+https://the-kippah-shop.zappy5.app/about
 גלו את הסיפור מאחורי החנות הכיפית - היעד המוביל לחבילות סטיקרים מצחיקים לווצאפ בישראל
 
 ### צור קשר
-https://example.com/contact
+https://the-kippah-shop.zappy5.app/contact
 יש שאלה על חבילות סטיקרים לווצאפ? צרו איתנו קשר ונשמח לעזור בכל נושא!
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://the-kippah-shop.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://the-kippah-shop.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://the-kippah-shop.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About Business
+## About החנות הכיפית
+החנות הכיפית is a business in the מסחר אלקטרוני - מוצרים דיגיטליים industry.
+
+## Target Audience
+
+## Industry
+מסחר אלקטרוני - מוצרים דיגיטליים
+
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://example.com/sitemap.xml
-- **Robots.txt**: https://example.com/robots.txt
+- **Sitemap**: https://the-kippah-shop.zappy5.app/sitemap.xml
+- **Robots.txt**: https://the-kippah-shop.zappy5.app/robots.txt
